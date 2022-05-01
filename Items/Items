@@ -1,0 +1,10 @@
+[
+    {
+        "Name":"Redline to Renegade Raider",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/variants/material/mat2.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/smallicon.png",
+        "Type":0,
+        "DownloadMessage":"Succesfully Added Plugin To Targeted Swapper!",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/941490457865748580/945406905449332777/Redline_to_Renegade_Raider_Checkered.json"
+    }
+]
