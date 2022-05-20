@@ -990,5 +990,13 @@
         "Type":0,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331593997860894/Ruby_Shadow_to_Jill_Valentine.json"
-    }
+    },
+    {
+    "Name":"Default pickaxe to Star Wand",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_179_StarWand/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/icon.png",
+    "Type":3,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/977351781841518622/Star_Wand.json"
+  }
 ]
