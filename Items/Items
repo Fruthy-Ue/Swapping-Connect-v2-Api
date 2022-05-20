@@ -862,5 +862,117 @@
         "Type":2,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396589113479219/967386601988698182/Boogie_Down_to_Take_the_L.json"
+    },
+  {     
+    "Name":"Ruby shadows to Toni",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_413_Athena_Commando_M_Glare/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331196201693245/Ruby_Shadow_to_Toni.json"
+},
+   {     
+    "Name":"Ruby Shadows to Min Joon",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_414_Athena_Commando_M_ModNinja/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331196356857876/Ruby_Shadow_to_Min_Joon.json"
+},
+{     
+    "Name":"Ruby Shadows to Ali-A",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_415_Athena_Commando_M_Alfredo/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331196574973972/Ruby_Shadow_to_Ali_A.json"
+},
+    {     
+        "Name":"Ruby Shadow to Tektonik Komplex",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331196780511323/Ruby_Shadow_to_Tektonik_Komplexe.json"
+    },
+    {     
+        "Name":"Aura to Alto",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_382_Athena_Commando_M_CactusDancer/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331197212504064/Aura__to__Alto.json"
+    },
+    {     
+        "Name":"Ruby Shadows to Voltigeuse",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_292_Athena_Commando_F_Dieselpunk02/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331197560639549/Ruby_Shadow_to_Voltigeuse.json"
+    },
+    {     
+        "Name":"Aura to Iso",
+        "Icon":"https://media.fortniteapi.io/images/401ad012925537e7f240f1761bd065cc/transparent.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331198227542056/Aura_to_Iso.json"
+    },
+    {     
+        "Name":"Aura to Arcane Jinx",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_256_Athena_Commando_F_UproarBraids_8IOZW/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331592848633917/Aura_to_Arcane_Jinx.json"
+    },
+    {     
+        "Name":"Ruby Shadows to Kylo Ren ",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_631_Athena_Commando_M_GalileoKayak_VXLDB/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331593028972584/Ruby_Shadow_to_Kylo_Ren.json"
+    },
+    {     
+        "Name":"Ruby Shadows to Maximiliam",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_223_Athena_Commando_M_Dieselpunk/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331593200947210/Ruby_Shadow_to_Maximilian.json"
+    },
+    {     
+        "Name":"Aura to Lyric",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_381_Athena_Commando_F_CactusRocker_3HTBV/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331593372893204/Aura_to_Lyric.json"
+    },
+    {     
+        "Name":"Ruby Shadows to Heidi",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_226_Athena_Commando_F_Octoberfest/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331593561641010/Ruby_Shadow_to_Heidi.json"
+    },
+    {     
+        "Name":"Ruby Shadow to Triple Threat",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_137_Athena_Commando_F_StreetBasketball/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331593834278943/Ruby_Shadow_to_Triple_Threat.json"
+    },
+    {     
+        "Name":"Ruby Shadows to Jill Valentine",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_222_Athena_Commando_F_Relish_G6S5T/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331593997860894/Ruby_Shadow_to_Jill_Valentine.json"
     }
 ]
