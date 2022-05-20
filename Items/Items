@@ -873,8 +873,8 @@
 },
    {     
     "Name":"Ruby Shadows to Min Joon",
-    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID/icon.png",
-    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_414_Athena_Commando_M_ModNinja/icon.png",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_414_Athena_Commando_M_ModNinja/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
     "Type":0,
     "DownloadMessage":"",
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331196356857876/Ruby_Shadow_to_Min_Joon.json"
