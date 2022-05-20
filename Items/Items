@@ -152,6 +152,54 @@
           "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/972443406058000424/Ruby_Shadow_To_Mogul_Master_GER_1.json"
         },
         {
+          "Name":"Ruby Shadow to Mogul Master USA",
+          "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_062_Athena_Commando_F_SkiGirl_USA/icon.png",
+          "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+          "Type":0,
+          "DownloadMessage":"",
+          "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/972443578099961866/Ruby_Shadow_To_Mogul_Master_USA.json"
+        },
+        {
+          "Name":"Ruby Shadow to Mogul Master CAN",
+          "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_062_Athena_Commando_F_SkiGirl_CAN/icon.png",
+          "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+          "Type":0,
+          "DownloadMessage":"",
+          "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/972443578385199154/Ruby_Shadow_To_Mogul_Master_CAN.json"
+        },
+        {
+          "Name":"Ruby Shadow to Mogul Master GBR",
+          "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_062_Athena_Commando_F_SkiGirl_GBR/icon.png",
+          "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+          "Type":0,
+          "DownloadMessage":"",
+          "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/972443578578116648/Ruby_Shadow_To_Mogul_Master_GBR.json"
+        },
+        {
+          "Name":"Ruby Shadow to Mogul Master FRA",
+          "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_062_Athena_Commando_F_SkiGirl_FRA/icon.png",
+          "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+          "Type":0,
+          "DownloadMessage":"",
+          "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/972443578766852146/Ruby_Shadow_To_Mogul_Master_FRA.json"
+        },
+        {
+          "Name":"Ruby Shadow to Mogul Master KOR",
+          "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_062_Athena_Commando_F_SkiGirl_KOR/icon.png",
+          "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+          "Type":0,
+          "DownloadMessage":"",
+          "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/972443578943033354/Ruby_Shadow_To_Mogul_Master_KOR.json"
+        },
+        {
+          "Name":"Ruby Shadow to Mogul Master CHN",
+          "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_062_Athena_Commando_F_SkiGirl_CHN/icon.png",
+          "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+          "Type":0,
+          "DownloadMessage":"",
+          "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/972443579119202334/Ruby_Shadow_To_Mogul_Master_CHN.json"
+        },
+        {
           "Name":"Blizzabelle to Elite Agent (No Hat)",
           "Icon":"https://media.discordapp.net/attachments/919978810215125039/931192971527847976/512.png",
           "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
