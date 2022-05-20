@@ -862,40 +862,40 @@
         "Type":2,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396589113479219/967386601988698182/Boogie_Down_to_Take_the_L.json"
-    }},
-        {
-         "Name":"Aura to Kylo Ren",
-         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_631_Athena_Commando_M_GalileoKayak_VXLDB/icon.png",
-         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
-         "Type":0,
-         "DownloadMessage":"Plugin Successfully Added To Targeted Swapper! ",
-         "DownloadURL":"https://cdn.discordapp.com/attachments/959949250979065866/975061589432606810/Aura_to_Kylo_Ren.json"
-        },
-        {
-         "Name":"Hammerhead Morty to Candy Axe",
-         "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_015_HolidayCandyCane/icon.png",
-         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_620_Ruckus/icon.png",
-         "Type":2,
-         "DownloadMessage":"Plugin Successfully Added To Targeted Swapper! ",
-         "DownloadURL":"https://cdn.discordapp.com/attachments/879422909356060732/975089275743920269/Hammerhead_Morty_To_Candy_Axe.json"
-        },
-        {
-         "Name":"Aura to Wildcat",
-         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_757_Athena_Commando_F_WildCat/icon.png",
-         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
-         "Type":0,
-         "DownloadMessage":"Plugin Successfully Added To Targeted Swapper! ",
-         "DownloadURL":"https://cdn.discordapp.com/attachments/879422909356060732/975090690331656262/Aura_to_Wildcat.json"
-        },
-        {
-         "Name":"Aura to Arcane Jinx",
-         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_256_Athena_Commando_F_UproarBraids_8IOZW/icon.png",
-         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
-         "Type":0,
-         "DownloadMessage":"Plugin Successfully Added To Targeted Swapper! ",
-         "DownloadURL":"https://cdn.discordapp.com/attachments/879422909356060732/975091398908969110/Aura_to_Arcane_Jinx.json"
-       },
-       {
+    },
+    {
+        "Name":"Aura to Kylo Ren",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_631_Athena_Commando_M_GalileoKayak_VXLDB/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
+        "Type":0,
+        "DownloadMessage":"Plugin Successfully Added To Targeted Swapper! ",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/959949250979065866/975061589432606810/Aura_to_Kylo_Ren.json"
+    },
+    {
+        "Name":"Hammerhead Morty to Candy Axe",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_015_HolidayCandyCane/icon.png",         
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_620_Ruckus/icon.png",
+        "Type":2,
+        "DownloadMessage":"Plugin Successfully Added To Targeted Swapper! ",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/879422909356060732/975089275743920269/Hammerhead_Morty_To_Candy_Axe.json"
+    },
+    {
+        "Name":"Aura to Wildcat",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_757_Athena_Commando_F_WildCat/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
+        "Type":0,
+        "DownloadMessage":"Plugin Successfully Added To Targeted Swapper! ",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/879422909356060732/975090690331656262/Aura_to_Wildcat.json"
+    },
+    {
+        "Name":"Aura to Arcane Jinx",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_256_Athena_Commando_F_UproarBraids_8IOZW/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
+        "Type":0,
+        "DownloadMessage":"Plugin Successfully Added To Targeted Swapper! ",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/879422909356060732/975091398908969110/Aura_to_Arcane_Jinx.json"
+    },
+    {
         "Name":"Ruby Shadow to Par Patroller"
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_801_Athena_Commando_F_GolfSummer/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
