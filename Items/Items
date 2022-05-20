@@ -843,7 +843,7 @@
         "Name":"Boogie Down to Escenario",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/EID_KPopDance03/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/EID_BoogieDown/icon.png",
-        "Type":3,
+        "Type":2,
         "DownloadMessage":"Plugin Successfully Added To Targeted Swapper! ",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396589113479219/967803701291020428/Boogie_Down_To_Scenario.json"
     }
