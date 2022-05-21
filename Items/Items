@@ -1143,5 +1143,13 @@
   "Type":1,
   "DownloadMessage":"the shroud move weirdly",
   "DownloadURL":"https://cdn.discordapp.com/attachments/879422909356060732/977620211329007696/Deep_Dive_to_Molten_Battle_Shroud.json"
+ },
+  {
+  "Name":"Krissabelle to Gnash",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_894_Athena_Commando_M_Palespooky/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+  "Type":0,
+  "DownloadMessage":"No effects",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977628666077011998/Krissabelle_to_gnash.json"
  }
 ]
