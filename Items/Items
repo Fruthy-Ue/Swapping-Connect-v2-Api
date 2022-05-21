@@ -88,6 +88,14 @@
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/967130913039351848/Gingerbread_Raider_To_Renegade_Ghoul_Pink.json"
   },
   {
+    "Name":"Redline to Renegade Raider (Prismatic)",
+    "Icon":"https://media.discordapp.net/attachments/879497706287017985/977538664970195024/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/smallicon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977539025546129468/Redline_to_Renegade_Raider_Prismatic.json"
+  },
+  {
     "Name":"Blizzabelle to Polarity (Black-Masked)",
     "Icon":"https://media.discordapp.net/attachments/919978810215125039/931991314583674910/Backlash_-_Outfit_black_-_Fortnite.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
@@ -831,6 +839,14 @@
         "Type":4,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/967131222063083570/Blizzabelle_to_Klombo.json"
+      },
+      {
+        "Name":"Rail Gun to Zapotron",
+        "Icon":"https://media.discordapp.net/attachments/879497706287017985/964810824919158804/unknown.png",
+        "SwapIcon":"https://media.discordapp.net/attachments/879497706287017985/964810860155531284/unknown.png",
+        "Type":4,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/977540191592022046/Rail_Gun_to_Zapotron.json"
       },
       {
         "Name":"Deep Dive to Rainbow Clover",
