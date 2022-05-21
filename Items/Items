@@ -981,7 +981,7 @@
         "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_294_CandyCane/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_143_FlintlockWinter/icon.png",
         "Type":3,
-        "DownloadMessage":"NO EFFECTS",
+        "DownloadMessage":"No Effects",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/967512799708323860/Frozen_Axe_to_Minty.json"
       },
       {
@@ -1081,7 +1081,7 @@
       "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331592848633917/Aura_to_Arcane_Jinx.json"
   },
   {     
-      "Name":"Ruby Shadows to Kylo Ren ",
+      "Name":"Ruby Shadows to Kylo Ren",
       "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_631_Athena_Commando_M_GalileoKayak_VXLDB/icon.png",
       "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
       "Type":0,
@@ -1129,7 +1129,7 @@
   "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/977351781841518622/Star_Wand.json"
  },
   {
-  "Name":"Default pickaxe to Rey Pickaxe",
+  "Name":"Default pickaxe to Rey's Quarterstaff",
   "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_328_GalileoRocket_SNC0L/icon.png",
   "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/icon.png",
   "Type":3,
@@ -1137,11 +1137,11 @@
   "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/977568271823929434/Default_Pickaxe_to_Rey_Pickaxe.json"
  },
   {
-  "Name":"Tactical Scuba to Battle Shroud",
-  "Icon":"https://fortnite-api.com/images/cosmetics/br/BID_058_DarkEagle/icon.png",
+  "Name":"Tactical Scuba to Molten Battle Shroud",
+  "Icon":"https://static.wikia.nocookie.net/fortnite/images/7/7f/Molten_Battle_Shroud_-_Back_Bling_-_Fortnite.png/revision/latest/top-crop/width/360/height/360?cb=20191115160113",
   "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/BID_537_TacticalScuba/icon.png",
   "Type":1,
-  "DownloadMessage":"The movement of the shroud is not the same as the real",
+  "DownloadMessage":"Animation Not Perfect",
   "DownloadURL":"https://cdn.discordapp.com/attachments/879422909356060732/977620211329007696/Deep_Dive_to_Molten_Battle_Shroud.json"
  },
   {
@@ -1149,7 +1149,7 @@
   "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_894_Athena_Commando_M_Palespooky/icon.png",
   "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
   "Type":0,
-  "DownloadMessage":"No effects",
+  "DownloadMessage":"No Effects",
   "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977628666077011998/Krissabelle_to_gnash.json"
  }
 ]
