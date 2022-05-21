@@ -1127,5 +1127,13 @@
   "Type":3,
   "DownloadMessage":"",
   "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/977568271823929434/Default_Pickaxe_to_Rey_Pickaxe.json"
+ },
+  {
+  "Name":"Tactical Scuba to Molten Shroud",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/BID_058_DarkEagle/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/BID_537_TacticalScuba/icon.png",
+  "Type":1,
+  "DownloadMessage":"the shroud move weirdly",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/879422909356060732/977620211329007696/Deep_Dive_to_Molten_Battle_Shroud.json"
  }
 ]
