@@ -56,6 +56,14 @@
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/967129820653813862/Blaze_to_Birthday_Renegade_Raider.json"
   },
   {
+    "Name":"Blaze to Diamond Renegade Raider",
+    "Icon":"https://media.discordapp.net/attachments/864011599635152899/968185215698743316/Ustitled.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/968185486805987419/Blaze_to_Diamond_Renegade_Raider.json"
+  },
+  {
     "Name":"Blizzabelle To Galaxy Ikonik",
     "Icon":"https://media.discordapp.net/attachments/879497706287017985/952638428091150357/glZfhfR.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
