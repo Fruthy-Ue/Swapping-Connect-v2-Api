@@ -215,6 +215,47 @@
           "DownloadMessage":"",
           "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/972443579119202334/Ruby_Shadow_To_Mogul_Master_CHN.json"
         },
+        {     
+         "Name":"Redline to Merry Marauder",
+         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_049_Athena_Commando_M_HolidayGingerbread/icon.png",
+         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/icon.png",
+         "Type":0,
+         "DownloadMessage":"",
+         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977359506927419392/Redline_to_Merry_Marauder.json"
+        },
+
+       {     
+  "Name":"Redline to Ginger Gunner",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_048_Athena_Commando_F_HolidayGingerbread/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977359507481063475/Redline_to_Ginger_Gunner.json"
+      },
+      {     
+  "Name":"Redline To Survival Specialist",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_027_Athena_Commando_F/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977359507132919838/Redline_to_Survival_Specialist.json"
+     },
+     {     
+  "Name":"Redline to Aerial Assault Trooper",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_017_Athena_Commando_M/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977359507317477376/Redline_to_Aerial_Assault_Trooper.json"
+    },
+    {     
+  "Name":"Redline to Blue Team Leader",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_052_Athena_Commando_F_PSBlue/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977361998402703420/Redline_to_Blue_Team_Leader.json"
+    },
         {
           "Name":"Blizzabelle to Elite Agent (No Hat)",
           "Icon":"https://media.discordapp.net/attachments/919978810215125039/931192971527847976/512.png",
