@@ -728,6 +728,14 @@
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966770328778977380/Ruby_Shadow_to_Lyric.json"
       },
+      {     
+          "Name":"Aura to Lyric",
+          "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_381_Athena_Commando_F_CactusRocker_3HTBV/icon.png",
+          "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
+          "Type":0,
+          "DownloadMessage":"",
+          "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331593372893204/Aura_to_Lyric.json"
+      },
       {
         "Name":"Ruby Shadows to Midnight Dusk",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_892_Athena_Commando_F_VampireCasual/icon.png",
@@ -1039,14 +1047,6 @@
       "Type":0,
       "DownloadMessage":"",
       "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331593200947210/Ruby_Shadow_to_Maximilian.json"
-  },
-  {     
-      "Name":"Aura to Lyric",
-      "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_381_Athena_Commando_F_CactusRocker_3HTBV/icon.png",
-      "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
-      "Type":0,
-      "DownloadMessage":"",
-      "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331593372893204/Aura_to_Lyric.json"
   },
   {     
       "Name":"Ruby Shadows to Heidi",
