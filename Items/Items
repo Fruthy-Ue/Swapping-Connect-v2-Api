@@ -561,6 +561,14 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/967067675928981544/Blizzabelle_to_Shadow_Ops.json"
       },
       {
+        "Name":"Ruby Shadows to Shadow Ops",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_043_Athena_Commando_F_Stealth/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966772723185483776/Ruby_Shadow_to_Shadow_Ops.json"
+      },
+      {
         "Name":"Ruby Shadows to Zadie",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_625_Athena_Commando_F_PinkTrooper/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
@@ -783,14 +791,6 @@
         "Type":0,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966772506486784081/Ruby_Shadow_to_Shade.json"
-      },
-      {
-        "Name":"Ruby Shadows to Shadow Ops",
-        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_043_Athena_Commando_F_Stealth/icon.png",
-        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
-        "Type":0,
-        "DownloadMessage":"",
-        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966772723185483776/Ruby_Shadow_to_Shadow_Ops.json"
       },
       {
         "Name":"Ruby Shadows to Silver Surfer",
