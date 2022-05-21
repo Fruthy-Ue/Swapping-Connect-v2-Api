@@ -401,6 +401,22 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966404892761682020/Blizzabelle_to_Iso_1.json"
       },
       {
+        "Name":"Ruby Shadows to Iso",
+        "Icon":"https://media.fortniteapi.io/images/401ad012925537e7f240f1761bd065cc/transparent.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966747483940212766/Ruby_Shadow_to_Iso.json"
+      },
+      {     
+          "Name":"Aura to Iso",
+          "Icon":"https://media.fortniteapi.io/images/401ad012925537e7f240f1761bd065cc/transparent.png",
+          "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
+          "Type":0,
+          "DownloadMessage":"",
+          "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331198227542056/Aura_to_Iso.json"
+      },
+      {
         "Name":"Blizzabelle to Chaos Agent",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_598_Athena_Commando_M_Mastermind/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
@@ -679,14 +695,6 @@
         "Type":0,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966747197725098084/Ruby_Shadow_to_Holly_Jammer.json"
-      },
-      {
-        "Name":"Ruby Shadows to Iso",
-        "Icon":"https://media.fortniteapi.io/images/401ad012925537e7f240f1761bd065cc/transparent.png",
-        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
-        "Type":0,
-        "DownloadMessage":"",
-        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966747483940212766/Ruby_Shadow_to_Iso.json"
       },
       {
         "Name":"Ruby Shadows to Karve",
@@ -1007,14 +1015,6 @@
       "Type":0,
       "DownloadMessage":"",
       "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331197560639549/Ruby_Shadow_to_Voltigeuse.json"
-  },
-  {     
-      "Name":"Aura to Iso",
-      "Icon":"https://media.fortniteapi.io/images/401ad012925537e7f240f1761bd065cc/transparent.png",
-      "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png/icon.png",
-      "Type":0,
-      "DownloadMessage":"",
-      "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331198227542056/Aura_to_Iso.json"
   },
   {     
       "Name":"Aura to Arcane Jinx",
