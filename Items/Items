@@ -913,6 +913,14 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/967133461397786654/Shadow_Slicer_to_FNCS_Pickaxe.json"
       },
       {
+        "Name":"Default Pickaxe to FNCS Pickaxe",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_376_FNCS/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/icon.png",
+        "Type":3,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/967512799527981197/Default_pickaxe_to_FNCS.json"
+      },
+      {
         "Name":"Shadow Slicer to Gilded Scepter",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_350_TheGoldenSkeleton/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_541_StreetFashionEclipseFemale/icon.png",
@@ -928,6 +936,14 @@
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/967133946829738034/Creshent_Shroom_to_Bootstrap.json"
       },
+        {
+         "Name":"Default pickaxe to Bootstrap",
+         "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_142_TeriyakiFish/icon.png",
+         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/icon.png",
+         "Type":3,
+         "DownloadMessage":"",
+         "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/967512798940758076/Default_pickaxe_to_Bootstrap.json"
+        },
       {
         "Name":"Creshent Shroom to Crowbar",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_092_Bling/icon.png",
@@ -935,6 +951,30 @@
         "Type":3,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/967134266083401798/Creshent_Shroom_to_Crowbar.json"
+      },
+      {
+        "Name":"Default Pickaxe to Crowbar",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_092_Bling/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/icon.png",
+        "Type":3,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/967512799133720616/Default_Pickaxe_to_Crowbar.json"
+      },
+      {
+        "Name":"Default Pickaxe to Driver",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_190_GolfClub/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/icon.png",
+        "Type":3,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/967512799305695323/Default_Pickaxe_to_Driver.json"
+      },
+      {
+        "Name":"Frozen Axe to Minty",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_294_CandyCane/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_143_FlintlockWinter/icon.png",
+        "Type":3,
+        "DownloadMessage":"NO EFFECTS",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/967512799708323860/Frozen_Axe_to_Minty.json"
       },
       {
         "Name":"Creshent Shroom to Noggin Black",
