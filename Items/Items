@@ -416,6 +416,14 @@
           "DownloadMessage":"",
           "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331198227542056/Aura_to_Iso.json"
       },
+      {     
+          "Name":"Ruby Shadows to Siren",
+          "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_748_Athena_Commando_F_Hitman/icon.png",
+          "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+          "Type":0,
+          "DownloadMessage":"",
+          "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331198227542056/Aura_to_Iso.json"
+      },
       {
         "Name":"Blizzabelle to Chaos Agent",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_598_Athena_Commando_M_Mastermind/icon.png",
