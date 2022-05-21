@@ -838,7 +838,23 @@
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/BID_430_GalileoSpeedBoat_9RXE3/icon.png",
         "Type":1,
         "DownloadMessage":"",
-        "DownloadURL":"https://cdn.discordapp.com/attachments/966396529399201802/967053826907594782/The_Sith_to_Galactic_Disc.json"
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396529399201802/967379854234386482/The_Sith_to_Galactic_Disc.json"
+      },
+      {
+        "Name":"Deep Dive To Shattered Wing",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/BID_256_ShatterFly/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/BID_537_TacticalScuba/icon.png",
+        "Type":1,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396529399201802/967487490917269574/Deep_Dive_to_Shattered_Wing.json"
+      },
+      {
+        "Name":"Deep Dive To Flutter Wings",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/BID_290_Butterfly/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/BID_537_TacticalScuba/icon.png",
+        "Type":1,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396529399201802/967487491286397008/Deep_Dive_to_Flutter_Wings.json"
       },
       {
         "Name":"Shadow Slicer to Crowbar (Black)",
