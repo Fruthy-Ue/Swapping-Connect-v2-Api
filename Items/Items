@@ -104,6 +104,14 @@
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/977657691969294396/Redline_to_Renegade_Raider_Prismatic.json"
   },
   {
+    "Name":"Redline To Gingerbread Assault Trooper",
+    "Icon":"https://media.discordapp.net/attachments/879497706287017985/977919616292642886/unknown.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/smallicon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/977927156346806302/Redline_To_Gingerbread_Assault_Trooper.json"
+  },
+  {
     "Name":"Blizzabelle to Polarity (Black-Masked)",
     "Icon":"https://media.discordapp.net/attachments/919978810215125039/931991314583674910/Backlash_-_Outfit_black_-_Fortnite.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
