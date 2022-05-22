@@ -1205,7 +1205,7 @@
     "Icon": "https://fortnite-api.com/images/cosmetics/br/CID_752_Athena_Commando_M_Comet/icon.png",
     "SwapIcon": "https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
     "Type": 0,
-    "DownloadMessage": "It doesn't have the hat'",
+    "DownloadMessage": "It doesn't have the hat",
     "DownloadURL": "https://cdn.discordapp.com/attachments/879422909356060732/977894998206988348/Ruby_Shadow_to_Guff.json"
   }
 ]
