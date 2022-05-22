@@ -1135,5 +1135,69 @@
   "Type":3,
   "DownloadMessage":"",
   "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/977568271823929434/Default_Pickaxe_to_Rey_Pickaxe.json"
+ },
+  {
+  "Name":"Krisabelle to Mogul Master GER",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_066_Athena_Commando_F_SkiGirl_GER/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977868348719263784/Krisabelle_to_Mogul_Master_GER.json"
+ },
+  {
+  "Name":"Krisabelle to Mogul Master CHN",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_067_Athena_Commando_F_SkiGirl_CHN/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977868349058977792/Krisabelle_to_Mogul_Master_CHN.json"
+ },
+  {
+  "Name":"Krisabelle to Mogul Master KOR",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_068_Athena_Commando_F_SkiGirl_KOR/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977868349344198656/Krisabelle_to_Mogul_Master_KOR.json"
+ },
+  {
+  "Name":"Krisabelle to Mogul Master FRA",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_065_Athena_Commando_F_SkiGirl_FRA/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977868349537132544/Krisabelle_to_Mogul_Master_FRA.json"
+ },
+  {
+  "Name":"Krisabelle to Mogul Master GBR",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_064_Athena_Commando_F_SkiGirl_GBR/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977868349793005578/Krisabelle_to_Mogul_Master_GBR.json"
+ },
+  {
+  "Name":"Krisabelle to Mogul Master CAN",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_063_Athena_Commando_F_SkiGirl_CAN/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977868350057242624/Krisabelle_to_Mogul_Master_CAN.json"
+ },
+  {
+  "Name":"Krisabelle to Mogul Master USA",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_062_Athena_Commando_F_SkiGirl_USA/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977868350371807262/Krisabelle_to_Mogul_Master_USA.json"
+},
+  {
+  "Name":"Krisabelle to Mogul Master",
+  "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_061_Athena_Commando_F_SkiGirl/icon.png",
+  "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+  "Type":0,
+  "DownloadMessage":"",
+  "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977868350627643433/Krisabelle_to_Mogul_Master.json"
  }
 ]
