@@ -287,6 +287,14 @@
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966402764345315398/Blizzabelle_to_Safari.json"
       },
+      {
+        "Name":"Ruby Shadows to Safari",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_802_Athena_Commando_F_HeartBreaker/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978207330804047902/Ruby_Shadows_to_Safari.json"
+      },
       {     
        "Name":"Ruby Shadows to Mogul Master (Basic)",
        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_061_Athena_Commando_F_SkiGirl/icon.png",
@@ -641,6 +649,14 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/967063843715039262/Blizzabelle_to_Cat_Woman_Zero_By_Jean_1.json"
       },
       {
+        "Name":"Ruby Shadows to Catwoman Zero",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_094_Athena_Commando_F_Cavern_33LMC/icon.png",
+        "Swapicon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978207330372042772/Ruby_Shadows_to_Catwoman_Zero.json"
+      },
+      {
         "Name":"Blizzabelle to Chloe",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_375_Athena_Commando_F_Snowfall_WXW2T/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
@@ -679,6 +695,14 @@
         "Type":0,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/967066001017561138/Blizzabelle_to_Hush_by_Jean_1.json"
+      },
+      {
+        "Name":"Ruby Shadows to Hush",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_616_Athena_Commando_F_CavalryBandit/icon.png",
+        "Swapicon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978207330602741760/Ruby_Shadows_to_Hush.json"
       },
       {
         "Name":"Blizzabelle to Ikonik",
