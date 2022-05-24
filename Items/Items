@@ -176,6 +176,30 @@
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/967061759439536268/Ruby_Shadow_to_Wildcat_Blueprint.json"
   },
   {
+    "Name":"Tectonic Komplex to Wildcat",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_757_Athena_Commando_F_WildCat/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978451748312219668/Tectonic_Komplex_to_Wildcat.json"
+  },
+  {
+    "Name":"Tectonic Komplex to Wildcat (Blue)",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/cid_757_athena_commando_f_wildcat/variants/material/mat2.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978451747754348554/Tectonic_Komplex_to_Wildcat_Blue.json"
+  },
+  {
+    "Name":"Tectonic Komplex to Wildcat (BluePrint)",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/cid_757_athena_commando_f_wildcat/variants/material/mat3.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978451748068937738/Tectonic_Komplex_to_Wildcat_BluePrint.json"
+  },
+  {
     "Name":"Aura to Wildcat",
     "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_757_Athena_Commando_F_WildCat/icon.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
@@ -230,6 +254,14 @@
       "Type":0,
       "DownloadMessage":"",
       "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978101657848131594/Ruby_Shadows_to_Surf_Witch.json"
+    },
+    {
+      "Name":"Tectonic Komplex to Surf Witch",
+      "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_805_Athena_Commando_F_PunkDevilSummer/icon.png",
+      "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+      "Type":0,
+      "DownloadMessage":"",
+      "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978451104595607562/Tectonic_Komplex_to_Surf_Witch.json"
     },
      {
        "Name":"Blizzabelle to Dummy",
@@ -423,6 +455,62 @@
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977868350627643433/Krisabelle_to_Mogul_Master.json"
        },
+       {
+        "Name":"Tectonic Komplex to Mogul Master USA",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_062_Athena_Commando_F_SkiGirl_USA/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978448360728043560/Tectonic_Komplex_to_USA.json"
+      },
+      {
+        "Name":"Tectonic Komplex to Mogul Master (CAN)",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_063_Athena_Commando_F_SkiGirl_CAN/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978448359088087090/Tectonic_Komplex_to_CAN.json"
+      },
+      {
+        "Name":"Tectonic Komplex to Mogul Master (GBR)",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_064_Athena_Commando_F_SkiGirl_GBR/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978448359872426024/Tectonic_Komplex_to_GBR.json"
+      },
+      {
+        "Name":"Tectonic Komplex to Mogul Master (FRA)",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_065_Athena_Commando_F_SkiGirl_FRA/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978448359637536768/Tectonic_Komplex_to_FRA.json"
+      },
+      {
+        "Name":"Tectonic Komplex to Mogul Master (GER)",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_066_Athena_Commando_F_SkiGirl_GER/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978448360073748550/Tectonic_Komplex_to_GER.json"
+      },
+      {
+        "Name":"Tectonic Komplex to Mogul Master (CHN)",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_067_Athena_Commando_F_SkiGirl_CHN/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978450580940914738/Tectonic_Komplex_to_CHN.json"
+      },
+      {
+        "Name":"Tectonic Komplex to Mogul Master (KOR)",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_068_Athena_Commando_F_SkiGirl_KOR/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978448360304410694/Tectonic_Komplex_to_KOR.json"
+      },
       {     
        "Name":"Redline to Merry Marauder",
        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_049_Athena_Commando_M_HolidayGingerbread/icon.png",
@@ -657,6 +745,14 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978207330372042772/Ruby_Shadows_to_Catwoman_Zero.json"
       },
       {
+        "Name":"Tectonic Komplex to Catwoman Zero",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_094_Athena_Commando_F_Cavern_33LMC/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978451103735758948/Tectonic_Komplex_to_CatWoman_Zero.json"
+      },
+      {
         "Name":"Blizzabelle to Chloe",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_375_Athena_Commando_F_Snowfall_WXW2T/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
@@ -689,6 +785,14 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/967065723849547816/Blizzabelle_to_Ghoul_Trooper_I_D_Remember_if_its_on_the_swapper_lol_2.json"
       },
       {
+        "Name":"Tectonic Komplex to Ghoul Trooper",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_029_Athena_Commando_F_Halloween/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978452606978519070/Tectonic_Komplex_to_Ghoul_Trooper.json"
+      },
+      {
         "Name":"Blizzabelle to Hush",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_616_Athena_Commando_F_CavalryBandit/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
@@ -719,6 +823,14 @@
         "Type":0,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978101657621655562/Ruby_Shadows_to_Ikonik.json"
+      },
+      {
+        "Name":"Tectonic Komplex to Ikonik",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_313_Athena_Commando_M_KpopFashion/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978452606785568799/Tectonic_Komplex_to_Ikonik.json"
       },
       {
         "Name":"Blizzabelle to Kiara K.O.",
@@ -1001,6 +1113,14 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966769598303195216/Ruby_Shadow_to_Lara_Croft.json"
       },
       {
+        "Name":"Tectonic Komplex to Lara Croft",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_040_Athena_Commando_F_Temple/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978453808944414750/Tectonic_Komplex_to_Lara_Croft.json"
+      },
+      {
         "Name":"Blizzabelle to Lyric",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_381_Athena_Commando_F_CactusRocker_3HTBV/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
@@ -1111,6 +1231,14 @@
         "Type":0,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966774811672059914/Ruby_Shadow_to_Travis_Scoot.json"
+      },
+      {
+        "Name":"Tectonic Komplex to Travis Scott",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_703_Athena_Commando_M_Cyclone/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978451104759164928/Tectonic_Komplex_to_Travis_Scott.json"
       },
       {
         "Name":"Ruby Shadows to Tricksy",
