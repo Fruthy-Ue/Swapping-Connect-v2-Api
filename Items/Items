@@ -216,12 +216,28 @@
       "DownloadURL":"https://cdn.discordapp.com/attachments/879497706287017985/965339237111193680/Blizzabelle_to_Chigusa.json"
     },
     {
+      "Name":"Tectonic Complex To Chigusa",
+      "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_048_Athena_Commando_F_SailorSquadLeader/icon.png",
+      "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+      "Type":0,
+      "DownloadMessage":"",
+      "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802738773237840/Tectonic_Komplex_to_Chigusa.json" 
+    },
+    {
       "Name":"Blizzabelle to Megumi",
       "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_049_Athena_Commando_F_SailorSquadRebel/icon.png",
       "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
       "Type":0,
       "DownloadMessage":"",
       "DownloadURL":"https://cdn.discordapp.com/attachments/879497706287017985/965339236888887346/Blizzabelle_to_Megumi.json"
+    },
+    {
+      "Name":"Tectonic Complex To Megumi",
+      "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_049_Athena_Commando_F_SailorSquadRebel/icon.png",
+      "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+      "Type":0,
+      "DownloadMessage":"",
+      "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802740828471326/Tectonic_to_Megumi.json"
      },
      {
        "Name":"Blizzabelle to Yuki",
@@ -272,6 +288,14 @@
        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966402263839023134/Blizzabelle_To_Dummy.json"
       },
       {
+        "Name":"Tectonic Complex To Dummy",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_795_Athena_Commando_M_Dummeez/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802739444334622/Tectonic_Komplex_to_Dummy.json"
+      },
+      {
         "Name":"Ruby Shadows to Dummy",
         "Icon":"https://media.fortniteapi.io/images/51d30a24ab77d09644e0db6a9ea14ddc/transparent.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
@@ -296,6 +320,15 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978101657390940170/Ruby_Shadows_to_Dummy2.json"
       },
       {
+        "Name":"Tectonic Complex To Dummy (Black)",
+        "Icon":"https://media.discordapp.net/attachments/879497706287017985/965340787514695710/unknown.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802739154931763/Tectonic_Komplex_to_Dummy_Black.json"
+      },
+      {
+        
         "Name":"Blizzabelle to Aura",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
@@ -310,6 +343,15 @@
         "Type":0,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978101630140579930/Ruby_Shadows_to_Aura.json"
+      },
+      {
+        "Name":"Tectonic Complex to Aura",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802757765054514/Tectonic_Komplex_to_Aura.json"
+
       },
       {
         "Name":"Blizzabelle to Safari",
@@ -585,6 +627,14 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978117084330479646/Ruby_Shadows_to_Sarah_Connor.json"
       },
       {
+        "Name":"Tectonic Complex To Sarah Connor",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_992_Athena_Commando_F_Typhoon_LPFU6/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802740333514792/Tectonic_Komplex_to_Sarah_Connor.json"
+      },
+      {
         "Name":"Blizzabelle to Focus",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_452_Athena_Commando_F_CyberFu/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
@@ -601,6 +651,14 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978117083860705351/Ruby_Shadows_to_Focus.json"
       },
       {
+        "Name":"Tectonic Complex to Focus",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_452_Athena_Commando_F_CyberFu/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802739666628658/Tectonic_Komplex_to_Focus.json"
+      },
+      {
         "Name":"Blizzabelle To Psycho Bandit",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_515_Athena_Commando_M_BarbequeLarry/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
@@ -615,6 +673,14 @@
         "Type":0,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978117081507713055/Ruby_Shadows_to_Psycho_Bandit.json"
+      },
+      {
+        "Name":"Tectonic Complex to Psycho Bandit",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_515_Athena_Commando_M_BarbequeLarry/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802740119601192/Tectonic_Komplex_to_Psycho_Bandit.json"
       },
       {
         "Name":"Blizzabelle to Iso",
@@ -657,6 +723,14 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978101630350282782/Ruby_Shadows_to_Chaos.json"
       },
       {
+        "Name":"Tectonic Complex to Chaos Agent",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_598_Athena_Commando_M_Mastermind/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802738605473814/Tectonic_Komplex_to_Chaos.json"
+      },
+      {
         "Name":"Blizzabelle to Michonne",
         "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_976_Athena_Commando_F_Wombat_0GRTQ/icon.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
@@ -679,6 +753,14 @@
         "Type":0,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978101596258983967/Aura_to_Michonne.json"
+      },
+      {     
+        "Name":"Tectonic Complex To Michonne",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_976_Athena_Commando_F_Wombat_0GRTQ/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_420_Athena_Commando_F_NeonGraffitiLava/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802739872161852/Tectonic_Komplex_to_Michonne.json"
       },
       {
         "Name":"Blizzabelle to T-800",
@@ -703,6 +785,14 @@
         "Type":0,
         "DownloadMessage":"",
         "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/966407587237089310/Blizabelle_to_Chani.json"
+      },
+      {
+        "Name":"Ruby Shadow to Chani",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_215_Athena_Commando_F_SunriseCastle_48TIZ/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "Type":0,
+        "DownloadMessage":"",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978802778329722890/Ruby_Shadows_to_Chani.json"
       },
       {
         "Name":"Blizzabelle to Naturel",
