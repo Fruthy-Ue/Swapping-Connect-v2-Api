@@ -24,6 +24,14 @@
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/977656895953322034/Dark_Bomber_to_Purple_Skull_Ranger.json"
   },
   {
+    "Name":"Ruby Shadow to Jonesy Agent (Bald)",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_989_Athena_Commando_M_ProgressiveJonesy/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/979711945735282718/Ruby_Shadow_to_Jonesy_Agent_Bald.json"
+  },
+  {
     "Name":"Blaze To Galaxy Zero",
     "Icon":"https://media.discordapp.net/attachments/919978810215125039/928327153156755467/Galaxy_Zero.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
@@ -705,6 +713,14 @@
           "Type":0,
           "DownloadMessage":"",
           "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/977331198227542056/Aura_to_Iso.json"
+        },
+        {     
+            "Name":"Vanguard Banshee to Iso",
+            "Icon":"https://media.fortniteapi.io/images/401ad012925537e7f240f1761bd065cc/transparent.png",
+            "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_888_Athena_Commando_F_ChOneBanshee/icon.png",
+            "Type":0,
+            "DownloadMessage":"",
+            "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/979314003585138708/Vanguard_Banshee_to_Iso.json"
       },
       {
         "Name":"Blizzabelle to Chaos Agent",
@@ -1657,6 +1673,30 @@
     "Type":0,
     "DownloadMessage":"",
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978101630518038538/Ruby_Shadows_to_Drift.json"
+     },
+  {
+    "Name":"Ruby Shadows to Drift",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_161_Athena_Commando_M_Drift/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/978101630518038538/Ruby_Shadows_to_Drift.json"
+  },
+  {
+    "Name":"Ruby Shadow to Maya",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_161_Athena_Commando_M_Drift/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/979353493263491112/Ruby_Shadow_to_Maya.json"
+  },
+  {
+    "Name":"Recon Expert to Tactics Officer",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_161_Athena_Commando_M_Drift/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_022_Athena_Commando_F/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/979313731274149908/Recon_Expert_to_Tactics_Officer.json"
   }
 ]
 
