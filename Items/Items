@@ -1675,11 +1675,11 @@
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/979313731274149908/Recon_Expert_to_Tactics_Officer.json"
   },
   {
-    "Name":"Ruby Shadow to Jonesy Agent (Bald)",
-    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_989_Athena_Commando_M_ProgressiveJonesy/icon.png",
-    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
-    "Type":0,
+    "Name":"Default Pickaxe to Fncs 2.0",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_804_FNCSS20Male/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/icon.png",
+    "Type":3,
     "DownloadMessage":"",
-    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/979711945735282718/Ruby_Shadow_to_Jonesy_Agent_Bald.json"
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/980185668682670160/Default_Pickaxe_to_FNCS2.0.json"
   }
 ]
