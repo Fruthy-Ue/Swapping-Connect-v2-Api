@@ -112,6 +112,22 @@
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/977927156346806302/Redline_To_Gingerbread_Assault_Trooper.json"
   },
   {
+    "Name":"Blizzabelle to Epic Employee",
+    "Icon":"https://cdn.discordapp.com/attachments/879497706287017985/977959005131509911/unknown.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/smallicon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/981094934088142888/Blizzabelle_to_Epic_Employee.json"
+  },
+  {
+    "Name":"Blizzabelle to Squid Games Doll",
+    "Icon":"https://media.discordapp.net/attachments/879497706287017985/979809475638739015/unknown.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/smallicon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/981094960810037258/Blizzabelle_to_Squid_Games_Doll.json"
+  },
+  {
     "Name":"Blizzabelle to Polarity (Black-Masked)",
     "Icon":"https://media.discordapp.net/attachments/919978810215125039/931991314583674910/Backlash_-_Outfit_black_-_Fortnite.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
