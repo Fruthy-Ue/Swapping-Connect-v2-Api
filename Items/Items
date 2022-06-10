@@ -1689,5 +1689,14 @@
     "Type":3,
     "DownloadMessage":"",
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396462793629736/980185668682670160/Default_Pickaxe_to_FNCS2.0.json"
+  },
+  {
+    "Name":"Ruby Shadow to Par Patroller",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_801_Athena_Commando_F_GolfSummer/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/984813398141321246/Ruby_Shadow_to_Par_Patroller.json"
   }
 ]
+
