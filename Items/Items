@@ -113,11 +113,11 @@
   },
   {
     "Name":"Blizzabelle to Polarity (Black-Masked)",
-    "Icon":"https://media.discordapp.net/attachments/919978810215125039/931991314583674910/Backlash_-_Outfit_black_-_Fortnite.png",
+    "Icon":"https://media.discordapp.net/attachments/879497706287017985/987021426823430144/unknown.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
     "Type":0,
     "DownloadMessage":"",
-    "DownloadURL":"https://cdn.discordapp.com/attachments/879497706287017985/966776749784440882/Blizzabelle_to_Polarity_Black-Masked.json"
+    "DownloadURL":"https://cdn.discordapp.com/attachments/879497706287017985/987021663101128714/Blizzabelle_to_Polarity_Black-Masked.json"
   },
   {
     "Name":"Blizzabelle to Polarity (White-Masked)",
@@ -137,7 +137,7 @@
   },
   {
     "Name":"Blizzabelle to Wildcat (Blue)",
-    "Icon":"https://cdn.discordapp.com/attachments/919978810215125039/931261481524273202/T-Variant-757-WildCat-Blue.png",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/cid_757_athena_commando_f_wildcat/variants/material/mat2.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
     "Type":0,
     "DownloadMessage":"",
@@ -145,7 +145,7 @@
   },
   {
     "Name":"Blizzabelle to Wildcat (BluePrint)",
-    "Icon":"https://cdn.discordapp.com/attachments/919978810215125039/930420310753304596/T-Variant-757-WildCat-Blueprint.png",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/cid_757_athena_commando_f_wildcat/variants/material/mat3.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
     "Type":0,
     "DownloadMessage":"",
@@ -161,7 +161,7 @@
   },
   {
     "Name":"Ruby Shadows to Wildcat (Blue)",
-    "Icon":"https://cdn.discordapp.com/attachments/919978810215125039/931261481524273202/T-Variant-757-WildCat-Blue.png",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/cid_757_athena_commando_f_wildcat/variants/material/mat2.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
     "Type":0,
     "DownloadMessage":"",
@@ -169,7 +169,7 @@
   },
   {
     "Name":"Ruby Shadows to Wildcat (BluePrint)",
-    "Icon":"https://cdn.discordapp.com/attachments/919978810215125039/930420310753304596/T-Variant-757-WildCat-Blueprint.png",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/cid_757_athena_commando_f_wildcat/variants/material/mat3.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
     "Type":0,
     "DownloadMessage":"",
@@ -1412,7 +1412,7 @@
       },
       {
         "Name":"Shadow Slicer to Crowbar (Black)",
-        "Icon":"https://media.discordapp.net/attachments/919978810215125039/932724700608594033/unknown_ccexpress_2.png",
+        "Icon":"https://media.discordapp.net/attachments/879497706287017985/987023460914044928/crowbarblack.png",
         "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_541_StreetFashionEclipseFemale/icon.png",
         "Type":3,
         "DownloadMessage":"",
