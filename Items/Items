@@ -1681,6 +1681,31 @@
     "Type":0,
     "DownloadMessage":"",
     "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/984813398141321246/Ruby_Shadow_to_Par_Patroller.json"
+  },
+  {
+    "Name":"Sunny to Sarah Connor",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_992_Athena_Commando_F_Typhoon_LPFU6/icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_114_Athena_Commando_F_Believer/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/997093232221630514/Sunny_to_Sarah_Connor.json"
+  },
+  {
+    "Name":"Aura to Glimmer",
+    "Icon":"https://trackercdn.com/legacycdn/fortnite/3EE46793_large.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/997093422018068511/Aura_to_Glimmer.json"
+  },
+  {
+    "Name":"Aura to Raven 3rd Style",
+    "Icon":"https://media.fortniteapi.io/images/styles/T-Variant-A-036-F-Obsidian-Casual.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/997094209947439154/Aura_to_Raven_3_Style.json"
+  
   }
 ]
 
