@@ -1737,5 +1737,13 @@
     "Type":0,
     "DownloadMessage":"Not tested",
     "DownloadURL":"https://cdn.discordapp.com/attachments/970389358219788308/1005191291849674782/Ruby_Shadow_to_Arctica.json"
+  },
+  {
+    "Name":"Sunny to Sarah Frazer",
+    "Icon":"https://wallpapercave.com/wp/wp10731781.jpg",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_114_Athena_Commando_F_Believer/icon.png",
+    "Type":0,
+    "DownloadMessage":"",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396292592959518/1028755010361753630/Sunny_to__Chloe_Frazer.json"
   }
 ]
