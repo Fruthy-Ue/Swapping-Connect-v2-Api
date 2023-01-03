@@ -1,18 +1,18 @@
 [
   {
-    "Name":"Blizzabelle to Invis Blizzabelle",
-    "Icon":"https://media.discordapp.net/attachments/879497706287017985/977656464946651146/invisbelle.png",
+    "Name":"Blizzabelle to Polarity (White-Masked)",
+    "Icon":"https://media.discordapp.net/attachments/845675306149085214/886206697419460618/Backlash_-_Outfit_white_-_Fortnite.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
     "Type":0,
     "DownloadMessage":"",
-    "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/977656703006957659/Blizzabelle_to_Invis_Blizzabelle.json"
+    "DownloadURL":"https://cdn.discordapp.com/attachments/936739652000436294/1059119815027073064/fullwhitefixy.csp"
   },
   {
-    "Name":"Blizzabelle To Chinese Default",
-    "Icon":"https://media.discordapp.net/attachments/864011599635152899/946327638627205200/mommy.png?width=473&height=473",
+    "Name":"Blizzabelle to Wolf",
+    "Icon":"https://static.wikia.nocookie.net/fortnite/images/e/e2/Wolf_-_Animal_-_Fortnite.png/revision/latest?cb=20211211203851",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
     "Type":0,
     "DownloadMessage":"",
-    "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/967124961120641044/Blizzabelle_To_Chinese_Deafult.json"
+    "DownloadURL":"https://cdn.discordapp.com/attachments/966396626715439104/1059958803908546611/blizzabelle_to_wolf.csp"
    }
 ]
